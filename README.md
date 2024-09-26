@@ -1,4 +1,4 @@
-# AppSec101--Free-Course-for-Bignners
+# AppSec101--Free-Course-for-beginners
 
 OWASP Top 10 Over the years ! - Comparison of OWASP Top 10 from previous years:
 https://www.youtube.com/watch?v=qNL2a-izY2E
